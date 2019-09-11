@@ -10,8 +10,8 @@ This website's pupose is to share the recipe for the best chocolate chip cookies
 
 ## Setup/Installation Requirements
 
-- Download or clone project git clone heres https://github.com/Koshin-Mohamed/my-first-website.git
-- cd my-first-website
+- Download or clone project git clone heres https://github.com/Koshin-Mohamed/cookie-recipe1.git
+- cd cookie-recipe
 - code . or atom .
 
 ## Known Bugs
