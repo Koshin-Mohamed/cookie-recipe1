@@ -1,6 +1,6 @@
 # Cookie Recipe
 
-#### This is a website's content is for a cookie recipe, 11/09/2019
+#### This website's content is for a cookie recipe, 11/09/2019
 
 #### By **Koshin Mohamed**
 
